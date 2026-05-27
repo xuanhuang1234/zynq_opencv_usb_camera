@@ -11,7 +11,7 @@ qrc_*.cpp
 *.autosave
 
 # 可执行文件
-opencv_test
+app/opencv_test/opencv_test
 *.exe
 
 # 编辑器
