@@ -1,0 +1,25 @@
+# Qt / qmake 构建目录与产物
+build-*/
+Makefile*
+*.o
+*.a
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# 可执行文件
+opencv_test
+*.exe
+
+# 编辑器
+.vscode/
+.idea/
+*~
+
+# 大文件 / 镜像 / 动态库
+*.img
+*.so
+*.so.*
